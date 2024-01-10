@@ -1,2 +1,2 @@
 # RESUME-format-
-just trying how to create and upload repsitory
+just learning how to create and upload repsitory
